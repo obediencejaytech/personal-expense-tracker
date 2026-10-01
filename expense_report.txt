@@ -1,0 +1,74 @@
+============================================
+       PERSONAL EXPENSE TRACKER REPORT
+       Built by Obedience Jay 🚀
+============================================
+
+=== EXPENSE SUMMARY ===
+Total spending: ₦146,500.00
+Number of expenses: 15
+Average expense: ₦9,766.67
+
+=== CATEGORY BREAKDOWN ===
+food       : ₦32,500.00
+data       : ₦17,000.00
+transport  : ₦17,000.00
+rent       : ₦80,000.00
+
+Highest spending category: rent
+
+=== LARGEST EXPENSE ===
+Expense: Rent
+Amount: ₦50,000.00
+Category: rent
+Date: 2026-09-29
+
+=== SMALLEST EXPENSE ===
+Expense: Data
+Amount: ₦1,000.00
+Category: data
+Date: 2026-09-29
+
+=== DAILY SPENDING ===
+2026-09-28 : ₦48,000.00
+2026-09-29 : ₦98,500.00
+
+=== CATEGORY PERCENTAGES ===
+food       : ₦32,500.00 (22.18%)
+data       : ₦17,000.00 (11.60%)
+transport  : ₦17,000.00 (11.60%)
+rent       : ₦80,000.00 (54.61%)
+
+=== DAILY SPENDING PERCENTAGES ===
+2026-09-28 : ₦48,000.00 (32.76%)
+2026-09-29 : ₦98,500.00 (67.24%)
+
+=== SPENDING BY WEEKDAY ===
+Monday     : ₦48,000.00
+Tuesday    : ₦98,500.00
+
+=== WEEKDAY SPENDING PERCENTAGES ===
+Monday     : ₦48,000.00 (32.76%)
+Tuesday    : ₦98,500.00 (67.24%)
+
+=== EXPENSE HISTORY ===
+-----------------------------------------------------------------
+Name                Amount         Category       Date
+-----------------------------------------------------------------
+1. Food              ₦   20,000.00 food            2026-09-28
+2. Data              ₦   10,000.00 data            2026-09-28
+3. Transport         ₦   15,000.00 transport       2026-09-28
+4. Food              ₦    3,000.00 food            2026-09-28
+5. Food              ₦    2,500.00 food            2026-09-29
+6. Data              ₦    1,000.00 data            2026-09-29
+7. Transport         ₦    2,000.00 data            2026-09-29
+8. Food              ₦    2,500.00 food            2026-09-29
+9. Data              ₦    2,000.00 data            2026-09-29
+10. Food              ₦    2,500.00 food            2026-09-29
+11. Rent              ₦   30,000.00 rent            2026-09-29
+12. Transport         ₦    2,000.00 transport       2026-09-29
+13. Food              ₦    2,000.00 food            2026-09-29
+14. data              ₦    2,000.00 data            2026-09-29
+15. Rent              ₦   50,000.00 rent            2026-09-29
+-----------------------------------------------------------------
+
+=== END OF REPORT ===
